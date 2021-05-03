@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-tictactoe-80da6": {
+      "hosting": {
+        "myapp": [
+          "angular-tictactoe-80da6"
+        ]
+      }
+    }
+  }
+}
